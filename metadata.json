@@ -1,0 +1,6 @@
+{
+  "name": "Eko-Budowa Trójmiasto - Remonty i Wykończenia Wnętrz",
+  "description": "Profesjonalne usługi remontowo-budowlane w Trójmieście (Gdańsk, Sopot, Gdynia). Kompleksowe remonty pod klucz, łazienki, gładzie, glazurnictwo. Tel: 882 342 665.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
